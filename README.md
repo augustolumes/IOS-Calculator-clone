@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/82983177/198979111-31d9b542-b5d0-48b2-849c-87c771f67bf8.png" alt="project sreenshot" width="700"/>
 
-## Material ui
+## Material-ui
 In this project i used the library [Material-ui](https://v4.mui.com/)     
 [click here](https://v4.mui.com/getting-started/installation/) to learn hot to install the library. 
 
